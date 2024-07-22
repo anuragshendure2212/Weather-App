@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  background-color: #031b30;
+}
+
+.forecast {
+  font-size: 0.9em;
+}
+
+.topnav {
+    color: #e9e9e9;
+    text-align: center;
+    font-size: 17px;
+    background-color: #3f3f3f;
+    padding: 14px 16px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #031b30;
+  color: #000000;
+  text-align: center;
+}
+
+.city-name {
+  font-weight: bold;
+  font-size: x-large;
+ color: ;
+}
+
+p.current,
+.city-name {
+  color: #e7e9f0;
+}
+
+p {
+  color: white;
+}
+.card-body{
+  color: #eaecf1;
+  background-color: #eff2f5;
+}
+.card{
+  color: #cfd2de;
+  background-color: #d6dade;
+}
+/* #city-list{
+  color: #000000;
+  background-color: #01071d;
+} */
+
+.list-group-item{
+  color: #ebedf7;
+  background-color: #000000;
+} 
+
+.btn{
+  color: #f0eaea;
+  background-color: #031b30;
+}
